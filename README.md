@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Checkpoint2Micro — Sistema de Consultas Médicas
 
 Este projeto é um sistema simples de agendamento e controle de *consultas médicas, desenvolvido usando **Spring Boot. Ele segue uma arquitetura típica de aplicações RESTful, organizando suas responsabilidades em **controladores, **modelos, **DTOs* e *repositórios*.
@@ -160,3 +161,6 @@ Este projeto é um *checkpoint acadêmico* e pode ser expandido com:
 - 🧪 Testes automatizados com *JUnit*
 - 📄 Documentação com *Swagger*
 - 📂 Upload de arquivos (ex: exames, documentos médicos)
+=======
+# Checkpoint3Micro
+>>>>>>> 276d9ec13044e820c61998f64356f1b1b545ab34
